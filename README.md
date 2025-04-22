@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧠 I’m passionate about building projects that solve _**real**_ problems
+- 🧠 I’m passionate about building projects that solve _**real world**_ problems
 - 🚀 I’m currently exploring LLMs, agentic workflows, and more
 - 📫 You can reach me at: asgrang@uwaterloo.ca
 - 🌐 Let's connect: https://www.linkedin.com/in/anantjyot-grang/
