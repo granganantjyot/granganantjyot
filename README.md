@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Anantjyot!
 
 <!--
 **granganantjyot/granganantjyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧠 I’m passionate about building projects that solve _**real**_ problems
+- 🚀 I’m currently exploring LLMs, agentic workflows, and more
+- 📫 You can reach me at: asgrang@uwaterloo.ca
+- 🌐 Let's connect: https://www.linkedin.com/in/anantjyot-grang/
